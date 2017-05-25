@@ -1,3 +1,5 @@
+# modified to be used as a Fuse.View (Pro)
+
 # hikr
 Pronounced "hiker" (/ˈhaɪkə(r)/), hikr is a basic hike-tracking app.
 
