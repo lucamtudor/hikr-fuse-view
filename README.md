@@ -1,5 +1,7 @@
 # modified to be used as a Fuse.View (Pro)
 
+![Android View App](https://github.com/lucamtudor/hikr-fuse-view/blob/master/fuse-fun-gif.gif)
+
 # hikr
 Pronounced "hiker" (/ˈhaɪkə(r)/), hikr is a basic hike-tracking app.
 
